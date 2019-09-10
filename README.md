@@ -2,4 +2,4 @@
 
 One click - Get All CC issues
 
-This is bookmark which can be added to the google chrome
+This is bookmark which can be added to the google chrom
